@@ -1,2 +1,2 @@
 alx
-update my readme
+updated my readme 
